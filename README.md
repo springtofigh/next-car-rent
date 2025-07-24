@@ -12,6 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## 📁 Technologies
 
 - Next.js 13
+- Css
 
 ## 📸 Screenshots
 
@@ -29,7 +30,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## 🔗 Live Demo
 
-👉 [Your Live Demo Link](#)
+👉 [Your Live Demo Link](https://nextcarrent.vercel.app/)
 
 ## 📦 Installation
 
