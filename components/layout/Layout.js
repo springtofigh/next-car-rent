@@ -13,7 +13,7 @@ function Layout({ children }) {
     <div className={styles.container}>
       { children }
     </div>
-    <footer className={styles.footer}><a href="https://www.botostart.ir" target="_blank">BototStart</a>{" "} Next.js Course | Car Rental Project &copy;</footer>
+    <footer className={styles.footer}><a href="https://www.botostart.ir" target="_blank" rel="noreferrer">BototStart</a>{" "} Next.js Course | Car Rental Project &copy;</footer>
     </>
   );
 }
